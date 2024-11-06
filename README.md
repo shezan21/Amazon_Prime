@@ -20,7 +20,7 @@ The primary goal of this project is to derive actionable insights that can help 
 3. Optimize the platform’s offerings based on data-driven insights.
 These insights could guide decision-making in content acquisition, personalized recommendations, and targeted marketing campaigns.
 
-## ***Methodology**
+## **Methodology**
 1. **Data Preprocessing:**
  - Clean the dataset by handling missing values, duplicates, and inconsistent data formats.
  - Standardize columns for easier analysis, such as converting dates to a uniform format.
