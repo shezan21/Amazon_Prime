@@ -1,7 +1,8 @@
 # Analyzing Amazon Prime Data for Customer Insights and Service Optimization
 ---
 # Introduction..
- With the rapid expansion of video streaming services, understanding consumer behavior and optimizing content delivery have become crucial for streaming platforms. This project aims to analyze data from Amazon Prime Video to derive   insights into viewership trends, content popularity, and factors that influence user engagement. By examining various features, we aim to uncover patterns that can help enhance Amazon Prime's service offerings and customer satisfaction.
+
+ With the rapid expansion of video streaming services, understanding consumer behavior and optimizing content delivery have become crucial for streaming platforms. This project aims to analyze data from Amazon Prime Video to derive insights into viewership trends, content popularity, and factors that influence user engagement. By examining various features, we aim to uncover patterns that can help enhance Amazon Prime's service offerings and customer satisfaction.
 ---
 
 # Dataset Overview..
